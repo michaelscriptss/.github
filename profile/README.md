@@ -13,8 +13,10 @@ I'm a **13-year-old developer** passionate about building websites and crafting 
 - 🧠 Always learning and experimenting with new technologies
 - 💬 Feel free to reach out on **Discord**!
 ---
+
 ## 🖥️ Working at:
 <img src="https://i.ibb.co/1YMsbhmP/New-Project-82.png" alt="Team Customizr" width="400" />
+
 ---
 
 ## 🛠️ Tech Stack
