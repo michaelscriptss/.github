@@ -17,8 +17,7 @@ I'm a **13-year-old developer** passionate about building websites and crafting 
 
 ## 🖥️ Contributions
 
-<img height="90px" src="/.github/planetary.png" alt="Orbit Logo" /><br /><br />
-Contributor
+Contributor @ Planetary Orbit
 
 ---
 
