@@ -12,11 +12,13 @@ I'm a **13-year-old developer** passionate about building websites and crafting 
 - ⚡ I prefer building things **natively** — no shortcuts, just pure code
 - 🧠 Always learning and experimenting with new technologies
 - 💬 Feel free to reach out on **Discord**!
+
 ---
 
-## 🖥️ Contributons:
-<img height="90px" src="/.github/planetary.png" alt="Orbit Logo" /><br /><br />
+## 🖥️ Contributions
 
+<img height="90px" src=".github/planetary.png" alt="Orbit Logo" /><br /><br />
+Contributor
 
 ---
 
