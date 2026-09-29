@@ -2,7 +2,7 @@
 
 I'm a **13-year-old developer** passionate about building websites and crafting custom APIs from scratch. I love turning ideas into working code and exploring the endless possibilities of programming.
 
-[![Discord](https://img.shields.io/badge/Discord-sittinginthefrontseat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/sittinginthefrontseat)
+[![Discord](https://img.shields.io/badge/Discord-clearlymichaell-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/clearlymichaell)
 
 ---
 
