@@ -18,6 +18,9 @@ I'm a **13-year-old developer** passionate about building websites and crafting 
 ## 🖥️ Contributions
 
 Contributor @ Planetary Orbit
+Executive @ Delivr
+Executive @ Boostify
+Managing Director @ Team Personi Bot
 
 ---
 
